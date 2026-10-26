@@ -1,0 +1,6 @@
+data/
+best_model.pth
+.tiktoken_cache/
+__pycache__/
+*.log
+lab2_run_log.json
